@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToDoListPage/static/css/main.762dfc10.css",
+    "main.js": "/ToDoListPage/static/js/main.72e6dcb2.js",
+    "static/media/russianFlag.png": "/ToDoListPage/static/media/russianFlag.abf4f9a3bfbdc69224cf.png",
+    "static/media/EnglishFlag.svg": "/ToDoListPage/static/media/EnglishFlag.399ae1bb3bb56d6d5b1879a703caea48.svg",
+    "index.html": "/ToDoListPage/index.html",
+    "main.762dfc10.css.map": "/ToDoListPage/static/css/main.762dfc10.css.map",
+    "main.72e6dcb2.js.map": "/ToDoListPage/static/js/main.72e6dcb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.762dfc10.css",
+    "static/js/main.72e6dcb2.js"
+  ]
+}
